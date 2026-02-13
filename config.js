@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "Seberapa cinta Kela ke abangg?",                          // For the love meter
             startText: "Sebesar INIIIII!",                                   // Text before the percentage
-            nextBtn: "Lanjut aja ❤️"                                         // Text for the next button
+            nextBtn: "Lanjut ❤️"                                         // Text for the next button
         },
         third: {
             text: "Sayang mau jadi Valentinenya abang di tanggal 14? 🌹", // The big question!
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yey! Abang orang yang paling beruntung di duniaaa! 🎉💝💖💝💓",
+        title: "Abang merasa orang yang paling beruntung di duniaaa! 🎉💝💖💝💓",
         message: "MAKASIH YA SAYANGGG UDAH MILIH ABANG JADI PASANGAN KELAA!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
